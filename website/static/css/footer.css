@@ -9,7 +9,7 @@ footer{
     margin-right: 30px;
 }
 
-.contato-nav{
+.contato_nav{
     position: relative;
     top: -12px;
     left: 20px;
@@ -92,7 +92,7 @@ footer{
     margin-left: 25px;
 }
 
-.logo-responsive{
+.logo_responsive{
     max-width: 200px;
     max-height: 150px;
     width: auto;
